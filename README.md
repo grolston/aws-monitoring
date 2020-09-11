@@ -1,4 +1,4 @@
-# Logging and CloudWatch
+# AWS Account Monitoring
 
 The following details the logging configurations and associated alerts to enable and IL4-capable environment.
 
