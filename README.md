@@ -1,6 +1,6 @@
 # AWS Account Monitoring
 
-The following details the logging configurations and associated alerts to enable and IL4-capable environment.
+The following details the logging configurations and associated alerts to enable a more secure environment.
 
 ## Logging Buckets
 
